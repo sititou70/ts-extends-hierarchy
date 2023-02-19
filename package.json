@@ -1,0 +1,21 @@
+{
+  "name": "ts-extends-hierarchy",
+  "description": "TS における[型の階層構造のグラフ](./graph.md)を生成します。これは、[代入可能関係](https://www.typescriptlang.org/docs/handbook/type-compatibility.html#subtype-vs-assignment)のグラフであり、下にある型の値を上の型の変数に代入できることを表します。",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ts-node": "10.9.1",
+    "typescript": "5.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sititou70/ts-extends-hierarchy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sititou70/ts-extends-hierarchy/issues"
+  },
+  "homepage": "https://github.com/sititou70/ts-extends-hierarchy#readme"
+}
